@@ -15,5 +15,5 @@ public class Shirt extends Item{
         super.display();
         System.out.println("\tSize: "+size);
         System.out.println("\tColor Code: "+ colorCode);
-    } 
+    }
 }
