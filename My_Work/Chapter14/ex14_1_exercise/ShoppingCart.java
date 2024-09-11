@@ -7,11 +7,11 @@ public class ShoppingCart {
         System.out.println("Add Result: "+addResult);
         
         // Handle possible ArithmeticException
-        try {           
-            double divResult = calc.divide(15, 0);
+        try {
+            double divResult = calc.divide(15, 5);
             System.out.println("Division Result: "+divResult);
         }catch (ArithmeticException ae){
-            System.out.println(ae);
-        }        
+           System.out.println(ae);
+       }
     }
 }
