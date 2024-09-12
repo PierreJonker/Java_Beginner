@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="My_Work:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/My_Work_jar</output-path>
+    <root id="archive" name="My_Work.jar">
+      <element id="module-output" name="My_Work" />
+      <element id="module-output" name="Practise2_Ch6" />
+      <element id="module-output" name="Practise1_Ch6" />
+      <element id="module-output" name="lesson_7" />
+      <element id="module-output" name="Practise_Ch7" />
+      <element id="module-output" name="Practise1_Ch8" />
+      <element id="module-output" name="Practise2_Ch8" />
+      <element id="module-output" name="Practise3_Ch8" />
+      <element id="module-output" name="Practise1_Ch9" />
+      <element id="module-output" name="Practise2_Ch9" />
+      <element id="module-output" name="Practise1_Ch10" />
+      <element id="module-output" name="Practise2_Ch10" />
+      <element id="module-output" name="Practise1_Ch11" />
+      <element id="module-output" name="Practise2_Ch11" />
+      <element id="module-output" name="Practise1_Ch12" />
+      <element id="module-output" name="Practise2_Ch12" />
+      <element id="module-output" name="Practise1_Ch13" />
+      <element id="module-output" name="Practise2_Ch13" />
+      <element id="module-output" name="Practise3_Ch13" />
+      <element id="module-output" name="Practise1_Ch14" />
+      <element id="module-output" name="Chapter15" />
+    </root>
+  </artifact>
+</component>
